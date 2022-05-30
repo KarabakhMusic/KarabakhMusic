@@ -9,11 +9,11 @@
         "pytgcalls",
         "tgvcbot"
     ],
-    "repository": "https://github.com/kursadHD/TgMusicBot",
+    "repository": "https://github.com/KarabkahMusic/TgMusicBot",
     "stack": "container",
     "env": {
         "SESSION": {
-            "description": "Pyrogram string session. (run `python(3) session.py` or generate it from https://replit.com/@kursadHD/Pyrogram-String-Session-Generator)",
+            "description": "Pyrogram string session. (run `python(3) session.py` or generate it from https://replit.com/@KarabakhMusic/yrogram-String-Session-Generator)",
             "required": true
         },
         "API_ID": {
